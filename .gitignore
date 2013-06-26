@@ -1,9 +1,0 @@
-Creazione di una nuova macchina virtuale non riuscita.
-
-Machine settings file '/Users/fede/VirtualBox VMs/Md2.Server_1/Md2.Server_1.vbox' already exists.
-
-Codice 'uscita: VBOX_E_FILE_ERROR (0x80BB0004)
-Componente: Machine
-Interfaccia: IMachine {22781af3-1c96-4126-9edf-67a020e0e858}
-Chiamante: IVirtualBox {3b2f08eb-b810-4715-bee0-bb06b9880ad2}
-
